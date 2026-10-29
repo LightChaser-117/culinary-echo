@@ -1,0 +1,6 @@
+{
+  "name": "Culinary Echo",
+  "description": "A computational gastronomy platform to cook meaningfully with what you have, preserve living flavor lineages, and reverse-recreate recipes across time using accessible ingredients.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
